@@ -4,4 +4,4 @@ Notes App with Google Sign In features and local database(Room) which stores you
 
 ## Some screenshots
 
-<img src="Screenshots/1.jpeg" width="150" height="150"/>
+<img src="Screenshots/1.jpeg" width="150" height="250"/>
